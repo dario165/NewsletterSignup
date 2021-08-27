@@ -1,5 +1,6 @@
 # NewsletterSignup
 Posting data to mailchimp's serves via their API and deployed with Heroku, fill free to signup :)
+Html, Css and node.
 
 ![Capturar](https://user-images.githubusercontent.com/81823496/130460772-16a20519-eee1-4988-98c6-ecf06fe4d6f6.PNG)
 ![Capturar1](https://user-images.githubusercontent.com/81823496/130460784-16c032c7-01e5-40d1-af52-e384586d70e9.PNG)
